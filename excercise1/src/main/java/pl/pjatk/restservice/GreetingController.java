@@ -8,6 +8,7 @@ import java.util.concurrent.atomic.*;
 @RestController
 @RequestMapping("/greeting")
 public class GreetingController {
+    //just for Git training comm
 
     private GreetingService greetingService;
 
